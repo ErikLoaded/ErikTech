@@ -1,0 +1,14 @@
+---
+name: The Hongs
+layout: default
+modal-id: 8
+date: 2014-07-14
+img: hongs.png
+add: http://www.thehongsmusic.com/
+alt: image-alt
+project-date: April 2014
+position: Front-End Web Developer
+category: Web Development
+description: Multinational electronic rock group, The Hongs,  was formed in 2008 by Jamaican-born musician, Gordon Myers, and have since become one of the most popular bands of the Miami music scene. Quite accidentally,  band members are a multinational fusion, including Jamaican, French, Mexican, Jewish, Costa Rican, Scottish, Cuban & Argentinean.
+tools: HTML CSS WORDPRESS
+---
