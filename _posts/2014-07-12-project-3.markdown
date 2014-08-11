@@ -1,0 +1,14 @@
+---
+name: TropiCult.com
+layout: default
+modal-id: 3
+date: 2014-07-12
+add: http://tropicult.com/
+img: tropicult.png
+position: Full-Stack Web Developer
+alt: image-alt
+project-date: April 2014
+category: Web Development
+description: Tropicult is dedicated to documenting art and underground culture through informative, engaging, and consistent original content (including exhibition previews, reviews, artists profiles, exclusive interviews, film reviews, music releases); along with quality event listings and promotional giveaways. The blog is visited by thousands of the hippest Miami locals and is followed by smart, worldly, creative, and cultured young professionals from all over the world.
+tools:  HTML5, CSS3, javascript, jQuery, canvas.js, bootstrap.js, wordpress
+---

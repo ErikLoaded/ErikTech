@@ -1,0 +1,16 @@
+---
+name: ErikLoad Portfolio
+layout: default
+modal-id: 1
+date: 2014-07-10
+img: eloaded.png
+add: http://erikloaded.com
+alt: image-alt
+position: Student
+project-date: April 2011
+category: Web Development
+description: My first portfolio, made while learning at Florida State University. This utilizes backbone.js and shows a few pieces of sample work from that time period.
+tools: HTML5, CSS3, Javascript, Backbone.js, less, 
+
+
+---

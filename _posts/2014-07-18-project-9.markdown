@@ -1,0 +1,14 @@
+---
+layout: default
+name: Erik Tech Portfolio
+modal-id: 9
+date: 2014-07-18
+img: eriktech.png
+add:
+alt: image-alt
+project-date: August 2014
+position: Full-Stack Web Developer
+category: Portfolio
+description: This is my most recent portfolio. The one you are currently looking at. Yes, I may have added this one for as filler. So what?
+tools: HTML5, CSS3, Sass, Jekyll, Javascript, JSON, Grunt, Bootstrap.js
+---

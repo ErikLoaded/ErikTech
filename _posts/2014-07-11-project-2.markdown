@@ -1,0 +1,15 @@
+---
+name: Chub The Movie
+layout: default
+modal-id: 2
+date: 2014-07-11
+img: chub.png
+add: http://chubthemovie.com/
+alt: image-alt
+position: Front-End Web Developer
+project-date: April 2014
+category: Web Development
+description: Chub The Movie is a short film about an unlikely friendship.
+tools: HTML, CSS, javascript, jQuery, Bootstrap.js, Jekyll
+
+---
