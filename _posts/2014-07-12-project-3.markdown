@@ -4,7 +4,7 @@ layout: default
 modal-id: 3
 date: 2014-07-12
 add: http://tropicult.com/
-img: tropicult.png
+img: Tropicult.png
 position: Full-Stack Web Developer
 alt: image-alt
 project-date: April 2014
