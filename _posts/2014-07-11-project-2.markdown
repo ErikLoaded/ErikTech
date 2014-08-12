@@ -3,7 +3,7 @@ name: Chub The Movie
 layout: default
 modal-id: 2
 date: 2014-07-11
-img: chub.png
+img: Chub.png
 add: http://chubthemovie.com/
 alt: image-alt
 position: Front-End Web Developer
