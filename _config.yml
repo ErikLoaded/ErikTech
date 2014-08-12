@@ -5,6 +5,7 @@ description: "Write an awesome description for your new site here. You can edit 
 twitter_username: jekyllrb
 github_username:  jekyll
 baseurl: /ErikTech
+
 # Build settings
 markdown: kramdown
 permalink: pretty
