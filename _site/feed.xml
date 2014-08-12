@@ -3,10 +3,10 @@
   <channel>
     <title>Erik.Tech</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Aug 2014 20:20:20 -0400</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2014 20:20:20 -0400</lastBuildDate>
+    <link>/ErikTech/</link>
+    <atom:link href="/ErikTech/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 11 Aug 2014 20:25:37 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2014 20:25:37 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/portfolio/2014/07/18/project-9/</link>
-        <guid isPermaLink="true">/portfolio/2014/07/18/project-9/</guid>
+        <link>/ErikTech/portfolio/2014/07/18/project-9/</link>
+        <guid isPermaLink="true">/ErikTech/portfolio/2014/07/18/project-9/</guid>
         
         
         <category>portfolio</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/16/project-7/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/16/project-7/</guid>
+        <link>/ErikTech/web%20development/2014/07/16/project-7/</link>
+        <guid isPermaLink="true">/ErikTech/web%20development/2014/07/16/project-7/</guid>
         
         
         <category>web development</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/15/project-6/</guid>
+        <link>/ErikTech/web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">/ErikTech/web%20development/2014/07/15/project-6/</guid>
         
         
         <category>web development</category>
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/14/project-8/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/14/project-8/</guid>
+        <link>/ErikTech/web%20development/2014/07/14/project-8/</link>
+        <guid isPermaLink="true">/ErikTech/web%20development/2014/07/14/project-8/</guid>
         
         
         <category>web development</category>
@@ -66,8 +66,8 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/14/project-5/</guid>
+        <link>/ErikTech/web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">/ErikTech/web%20development/2014/07/14/project-5/</guid>
         
         
         <category>web development</category>
@@ -79,8 +79,8 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/14/project-4/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/14/project-4/</guid>
+        <link>/ErikTech/web%20development/2014/07/14/project-4/</link>
+        <guid isPermaLink="true">/ErikTech/web%20development/2014/07/14/project-4/</guid>
         
         
         <category>web development</category>
@@ -92,8 +92,8 @@
         <description>
 </description>
         <pubDate>Sat, 12 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/12/project-3/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/12/project-3/</guid>
+        <link>/ErikTech/web%20development/2014/07/12/project-3/</link>
+        <guid isPermaLink="true">/ErikTech/web%20development/2014/07/12/project-3/</guid>
         
         
         <category>web development</category>
@@ -105,8 +105,8 @@
         <description>
 </description>
         <pubDate>Fri, 11 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/11/project-2/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/11/project-2/</guid>
+        <link>/ErikTech/web%20development/2014/07/11/project-2/</link>
+        <guid isPermaLink="true">/ErikTech/web%20development/2014/07/11/project-2/</guid>
         
         
         <category>web development</category>
@@ -118,8 +118,8 @@
         <description>
 </description>
         <pubDate>Thu, 10 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/10/project-1/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/10/project-1/</guid>
+        <link>/ErikTech/web%20development/2014/07/10/project-1/</link>
+        <guid isPermaLink="true">/ErikTech/web%20development/2014/07/10/project-1/</guid>
         
         
         <category>web development</category>
