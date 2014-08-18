@@ -1,4 +1,4 @@
----
+<!-- ---
 name: YBProject.com
 layout: default
 modal-id: 4
@@ -11,4 +11,4 @@ position: Front-End Web Developer
 category: Web Development
 description: Yellow Butterfly Project (YBP) is a full service production company, with the capacity to handle productions all over the world. With a roster of talented directors and top-notch producers, we make ideas take flight and create stories with a genuine connection to its audience. We are storytellers and visionaries who believe in integrity, inspiration, creativity, generosity and being of service through our work. At YBP we take our company culture seriously, which is why every project we take on is carefully considered and aligned with our motto, CREATING CONTENT THAT MATTERS.
 tools: HTML CSS WORDPRESS
----
+--- -->
