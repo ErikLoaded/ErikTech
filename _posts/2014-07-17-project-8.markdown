@@ -10,5 +10,5 @@ project-date: April 2014
 position: Front-End Web Developer
 category: Web Development
 description: Multinational electronic rock group, The Hongs,  was formed in 2008 by Jamaican-born musician, Gordon Myers, and have since become one of the most popular bands of the Miami music scene. Quite accidentally,  band members are a multinational fusion, including Jamaican, French, Mexican, Jewish, Costa Rican, Scottish, Cuban & Argentinean.
-tools: HTML CSS WORDPRESS
+tools: HTML CSS Javascript PHP WORDPRESS
 ---

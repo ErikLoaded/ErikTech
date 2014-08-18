@@ -9,6 +9,6 @@ alt: image-alt
 project-date: April 2014
 position: Front-End Web Developer
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+description: Rhythm Foundation is a non-profit organization celebrating its 26th season of presenting outstanding international artists in South Florida. We are the foremost presenter of “world music” in South Florida – presenting more than 500 concerts, events and festivals by established and innovative artists from around the world. Special focus is given to those cultures connecting to South Florida audiences – music from Brazil, Latin America, the Caribbean, Africa, Asia, and Europe
+tools: HTML5, CSS3, less, JSON, Javascript, Jquery, Wordpress, PHP, Bootstrap
 ---
